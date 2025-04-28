@@ -27,4 +27,4 @@ This project demonstrates a multi-agent AI system that:
 - Expand to multilingual customer support.
 
 ## 🤝 Contact
-Created by [Your Name]. Feel free to connect!
+Created by Iman Mansour. Feel free to connect!
